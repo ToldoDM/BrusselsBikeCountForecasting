@@ -1,0 +1,6 @@
+.idea/
+.ipynb_checkpoints/
+historical_data_csv/
+**/checkpoint/
+**/streaming/
+**/data.csv
