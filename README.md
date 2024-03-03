@@ -1,2 +1,5 @@
 # BrusselsBikeCountForecasting
-Project for the course of Big Data of bike count forecasting in Brussels.
+
+The project is subdivided in two sections:
+ - Distributed data management
+ - Scalable analytics 
